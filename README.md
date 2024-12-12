@@ -8,31 +8,31 @@ I'm a full-stack developer passionate about building innovative solutions across
 A real-time dashboard for monitoring IoT sensor data with advanced visualization features.
 - **Tech Stack:** React, Node.js, MongoDB, WebSocket
 - **Features:** Real-time monitoring, multiple visualization options, data export, dark/light theme
-- **[View Project →](link-to-project)**
+- **[View Project →]([link-to-project](https://github.com/Vigh24/iot-sensor-dashboard.git))**
 
 ### Discord File Viewer
 A web application that displays and manages files from Discord channels.
 - **Tech Stack:** JavaScript, HTML, CSS
 - **Features:** Discord integration, file management, responsive design
-- **[View Project →](link-to-project)**
+- **[View Project →]([link-to-project](https://github.com/Vigh24/game-search.git))**
 
 ### Real-time Screen Translator
 An Android overlay application that translates on-screen text in real-time.
 - **Tech Stack:** Kotlin, Java, Android SDK
 - **Features:** Real-time translation, customizable language selection, overlay functionality
-- **[View Project →](link-to-project)**
+- **[View Project →]([link-to-project](https://github.com/Vigh24/apnibhasha.git))**
 
 ### VoIP SIP Softphone
 A Voice over IP softphone implementation using SIP protocol.
 - **Tech Stack:** C++, Visual Studio
 - **Features:** VoIP calling, SIP protocol integration
-- **[View Project →](link-to-project)**
+- **[View Project →]([link-to-project](https://github.com/Vigh24/Test-era-SIP.git))**
 
 ### Safe Ride
 An Android emergency alert system for quick response during accidents.
 - **Tech Stack:** Java, Android SDK
 - **Features:** Emergency SMS alerts, location tracking, emergency services integration
-- **[View Project →](link-to-project)**
+- **[View Project →]([link-to-project](https://github.com/Vigh24/Safe-Ridee.git))**
 
 ## 💻 Technical Skills
 
