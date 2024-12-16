@@ -49,7 +49,7 @@ An Android emergency alert system for quick response during accidents.
 ## 📫 How to Reach Me
 - **Email:** vigneshpatil2486@gmail.com
 - **LinkedIn:** www.linkedin.com/in/vighneshpatil2410
-- **Portfolio:** https://vighnesh-patil.vercel.app/
+- **Portfolio:** https://vighneshpatil.vercel.app/
 
 ## 📊 GitHub Stats
 
